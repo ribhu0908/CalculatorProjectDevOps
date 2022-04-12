@@ -1,2 +1,1 @@
-[ribhu-VirtualBox]
 172.17.0.1 ansible_ssh_pass=babu2309 ansible_ssh_user=ribhu

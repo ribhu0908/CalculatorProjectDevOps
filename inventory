@@ -1,2 +1,2 @@
-[localhost]
+[ribhu-VirtualBox]
 127.0.0.1 ansible_ssh_pass=babu2309 ansible_ssh_user=ribhu

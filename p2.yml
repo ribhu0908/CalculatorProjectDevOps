@@ -11,5 +11,5 @@
       shell: docker image rm -f ribhumukherjee/calculatorminiproject:latest
 
     - name: create docker image
-      shell: docker run -d -p 80:80 --name mini-project ribhumukherjee/calculatorminiproject:latest
+      shell: docker run -it --name mini-project ribhumukherjee/calculatorminiproject:latest
       
